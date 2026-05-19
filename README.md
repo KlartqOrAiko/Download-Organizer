@@ -43,7 +43,7 @@ Downloads/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/downloads-organizer.git
+git clone https://github.com/KlartqOrAiko/downloads-organizer.git
 cd downloads-organizer
 ```
 
