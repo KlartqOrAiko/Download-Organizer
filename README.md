@@ -43,8 +43,8 @@ Downloads/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/KlartqOrAiko/downloads-organizer.git
-cd downloads-organizer
+git clone https://github.com/KlartqOrAiko/Download-Organizer.git
+cd download-organizer
 ```
 
 **2. Run the application**
